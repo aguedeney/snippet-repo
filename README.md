@@ -1,2 +1,2 @@
 # snippet-repo
-Test repository capabilites
+Test GitHub repository capabilites
